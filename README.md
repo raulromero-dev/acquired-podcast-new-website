@@ -6,7 +6,7 @@ A redesign of the [Acquired](https://acquired.fm) podcast website, built to matc
 >
 > — **Ben Gilbert**, Co-Founder & Co-Host of Acquired
 
-🔗 **[View Live Demo](https://v0-acquired-podcast-website.vercel.app/)**
+🔗 **[View the page now](https://v0-acquired-podcast-website.vercel.app/)**
 
 ---
 
