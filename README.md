@@ -1,30 +1,45 @@
-# Acquired podcast website
+# Acquired Podcast — Website Reimagined
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+A redesign of the [Acquired](https://acquired.fm) podcast website, built to match the level of craft in the show itself.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/raulromero-devs-projects/v0-acquired-podcast-website)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/rinNJ93fhDz)
+> **"This is insanely cool. Type is nice, and I love the acceleration / animations on all the content as it comes in. Brand kit is amazing too. And the About Page illustrations!"**
+>
+> — **Ben Gilbert**, Co-Founder & Co-Host of Acquired
 
-## Overview
+🔗 **[View Live Demo](https://v0-acquired-podcast-website.vercel.app/)**
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+---
 
-## Deployment
+## Why I Built This
 
-Your project is live at:
+Acquired is one of the best podcasts out there — Ben Gilbert and David Rosenthal create what I'd call "conversational audiobooks" about the world's greatest companies. Their episodes on Google and Trader Joe's are masterclasses in storytelling. But the current site is a Squarespace template doing its job. 
 
-**[https://vercel.com/raulromero-devs-projects/v0-acquired-podcast-website](https://vercel.com/raulromero-devs-projects/v0-acquired-podcast-website)**
+I wanted to build something that feels as premium as the content itself.
 
-## Build your app
+---
 
-Continue building your app on:
+## What's Different
 
-**[https://v0.app/chat/rinNJ93fhDz](https://v0.app/chat/rinNJ93fhDz)**
+**Animations with purpose** — Scroll-triggered reveals, smooth transitions, and micro-interactions that make browsing feel premium.
 
-## How It Works
+**Editorial design** — The "Our Approach" section highlights their philosophy (depth over breadth, primary sources, fair-minded analysis, long-term thinking) with a numbered layout that feels intentional.
 
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+**Episode experience** — Designed for transcripts and a media player that invites you to stay.
+
+**Proposed brand identity** — A cohesive visual language across the entire site.
+
+---
+
+## Tech Stack
+
+- [v0](https://v0.dev) by Vercel
+- Next.js
+- Tailwind CSS
+- Framer Motion
+
+
+## Credits
+
+ll credit for Acquired goes to [Ben Gilbert](https://twitter.com/gilbert) and [David Rosenthal](https://twitter.com/djrosent).
+
+Built by [Raul Romero](https://linkedin.com/in/raulromeroweb).
