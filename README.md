@@ -2,9 +2,15 @@
 
 A redesign of the [Acquired](https://acquired.fm) podcast website, built to match the level of craft in the show itself.
 
+<img width="1080" height="160" alt="Screenshot 2026-02-02 at 11 45 39 PM" src="https://github.com/user-attachments/assets/e830eb7e-1d99-4d69-a28b-8268ffcc3db8" />
+
 > **"This is insanely cool. Type is nice, and I love the acceleration / animations on all the content as it comes in. Brand kit is amazing too. And the About Page illustrations!"**
 >
 > — **Ben Gilbert**, Co-Founder & Co-Host of Acquired
+
+<img width="1440" height="810" alt="Screenshot 2026-02-02 at 11 46 43 PM" src="https://github.com/user-attachments/assets/d81d0e3f-eee1-42ec-bb21-66bee69ab633" />
+
+<img width="294" height="627" alt="Screenshot 2026-02-02 at 11 47 15 PM" src="https://github.com/user-attachments/assets/e849582d-4550-4afb-8ca3-c80f33f09665" />
 
 🔗 **[View the page now](https://v0-acquired-podcast-website.vercel.app/)**
 
